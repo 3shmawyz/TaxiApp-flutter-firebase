@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920087207533",
+    "firebase_url": "https://mytaxi-682a5-default-rtdb.firebaseio.com",
+    "project_id": "mytaxi-682a5",
+    "storage_bucket": "mytaxi-682a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920087207533:android:7595b1a02012d41ce12964",
+        "android_client_info": {
+          "package_name": "com.example.mytaxiclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920087207533-jmmhpgi9l11lrn6hd6aps3ceiukfc70s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OU8yBhFzjdfOmeqglSNr0W0YV4bfYG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920087207533-jmmhpgi9l11lrn6hd6aps3ceiukfc70s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
